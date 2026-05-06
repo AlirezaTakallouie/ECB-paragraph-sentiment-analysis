@@ -25,3 +25,4 @@ The text is mostly neutral, which makes sense because it is a formal central ban
 ## AI Use
 
 I used AI tools (ChatGPT) for guidance in structuring the code and understanding some steps. All code was reviewed, modified, and understood before submission.
+The code is structured step-by-step to follow the assignment requirements.

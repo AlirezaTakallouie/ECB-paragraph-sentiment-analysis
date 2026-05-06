@@ -22,3 +22,6 @@ I also counted the most frequent words and created a word cloud.
 
 ## Summary
 The text is mostly neutral, which makes sense because it is a formal central bank communication. Some parts are slightly positive or negative depending on the economic outlook and policy discussion.
+## AI Use
+
+I used AI tools (ChatGPT) for guidance in structuring the code and understanding some steps. All code was reviewed, modified, and understood before submission.
